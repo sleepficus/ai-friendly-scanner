@@ -1,0 +1,90 @@
+{
+  "url": "https://watercolormisfit.com/wet-on-wet-vs-wet-on-dry-the-watercolor-basics-every-beginner-should-know/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 177,
+    "found": true,
+    "directives": 5,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://watercolormisfit.com/wp-sitemap.xml",
+    "status": 200,
+    "entries": 5,
+    "kind": "index"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 41625,
+      "ms": 365,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 41625,
+      "ms": 436,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 41625,
+      "ms": 446,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 41625,
+      "ms": 498,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 722,
+    "script_tags": 8,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Wet-on-Wet vs. Wet-on-Dry Watercolor: When to Use Each",
+    "h1": [
+      "Wet-on-Wet vs. Wet-on-Dry Watercolor: When to Use Each"
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 31,
+    "links_unnamed": 3,
+    "buttons_total": 3,
+    "buttons_unnamed": 0,
+    "fields_total": 1,
+    "fields_unlabelled": 0,
+    "images_total": 7,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [
+      "https://watercolormisfit.com/wp-content/uploads/2025/08/wet-on-wet-definition3.jpg",
+      "https://watercolormisfit.com/wp-content/uploads/2025/08/wet-on-dry-definition.jpg",
+      "https://watercolormisfit.com/wp-content/uploads/2025/08/wet-on-dry-and-wet-on-wet.jpg"
+    ],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 26500
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 41625,
+    "homepage_ms": 365
+  }
+}

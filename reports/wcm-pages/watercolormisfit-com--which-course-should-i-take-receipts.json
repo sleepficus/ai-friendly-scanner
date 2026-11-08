@@ -1,0 +1,90 @@
+{
+  "url": "https://watercolormisfit.com/which-course-should-i-take/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 177,
+    "found": true,
+    "directives": 5,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://watercolormisfit.com/wp-sitemap.xml",
+    "status": 200,
+    "entries": 5,
+    "kind": "index"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 51214,
+      "ms": 473,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 51214,
+      "ms": 506,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 51214,
+      "ms": 289,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 51214,
+      "ms": 420,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 451,
+    "script_tags": 8,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "WHICH WORKSHOP SHOULD I TAKE?",
+    "h1": [
+      "WHICH WORKSHOP SHOULD I TAKE?"
+    ],
+    "meta_description": false
+  },
+  "labels": {
+    "links_total": 26,
+    "links_unnamed": 5,
+    "buttons_total": 3,
+    "buttons_unnamed": 0,
+    "fields_total": 1,
+    "fields_unlabelled": 0,
+    "images_total": 7,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [
+      "https://watercolormisfit.com/wp-content/uploads/2023/09/PAINT-RATIOS2.jpg",
+      "https://watercolormisfitland.com/shop/course-watercolor-washes/",
+      "https://watercolormisfitland.com/shop/course-exploratory-watercolor-learning-beginner-skills-with-abstract-paintings/"
+    ],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 26500
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 51214,
+    "homepage_ms": 473
+  }
+}

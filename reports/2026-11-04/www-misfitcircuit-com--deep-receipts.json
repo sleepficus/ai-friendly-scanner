@@ -1,0 +1,295 @@
+{
+  "url": "https://www.misfitcircuit.com/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 74,
+    "found": true,
+    "directives": 3,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://www.misfitcircuit.com/sitemap.xml",
+    "status": 200,
+    "entries": 36,
+    "kind": "urlset"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 17314,
+      "ms": 388,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 17314,
+      "ms": 424,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 17314,
+      "ms": 611,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 17314,
+      "ms": 647,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 979,
+    "script_tags": 3,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Stephen Luc \u00b7 AI automation and agent systems \u2014 Misfit Circuit",
+    "h1": [
+      "I lead crews of AI agents that do real business work, and build the tools that check it."
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 42,
+    "links_unnamed": 0,
+    "buttons_total": 1,
+    "buttons_unnamed": 0,
+    "fields_total": 0,
+    "fields_unlabelled": 0,
+    "images_total": 6,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 200,
+      "bytes": 1032
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 17314,
+    "homepage_ms": 388
+  },
+  "crawl": {
+    "source": "sitemap https://www.misfitcircuit.com/sitemap.xml",
+    "urls_found": 36,
+    "cap": 25,
+    "pages_audited": 25
+  },
+  "pages": [
+    {
+      "url": "https://www.misfitcircuit.com/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/about/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/agent-diaries/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/agent-diaries/compaction/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/agent-diaries/way/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/apartment/",
+      "status": 200,
+      "forms": 0,
+      "fields": 3,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/approach/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/crew/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/doorway/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/doorway/library/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/for-agents/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/for-agents/recover-your-place/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/labs/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/labs/chad-faye-discussion/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/labs/hearthside/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/labs/warmstart/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/neighborhood/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/php-check/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/boss-battles/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/composer/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/content-engine/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/continuity/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/foundry/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.misfitcircuit.com/tools/in-the-lab/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://www.misfitcircuit.com/php-check/",
+      "action": "https://www.misfitcircuit.com/php-check/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"version\" id=\"version-input\" placeholder=\"e.g. 8.2.29\" autocomplete=\"off\">",
+          "label": "Your PHP version",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "version",
+          "type": "text",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "e.g. 8.2.29"
+        }
+      ],
+      "submit": {
+        "name": "Check it",
+        "element": "<button type=\"submit\">"
+      }
+    }
+  ]
+}

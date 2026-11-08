@@ -1,0 +1,90 @@
+{
+  "url": "https://watercolormisfit.com/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 177,
+    "found": true,
+    "directives": 5,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://watercolormisfit.com/wp-sitemap.xml",
+    "status": 200,
+    "entries": 5,
+    "kind": "index"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 37305,
+      "ms": 559,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 37305,
+      "ms": 343,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 37305,
+      "ms": 388,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 37305,
+      "ms": 250,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 323,
+    "script_tags": 8,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Watercolor Misfit\u00ae | Modern Watercolor Tutorials",
+    "h1": [
+      "Watercolor   that breaks   the rules."
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 33,
+    "links_unnamed": 3,
+    "buttons_total": 3,
+    "buttons_unnamed": 0,
+    "fields_total": 1,
+    "fields_unlabelled": 0,
+    "images_total": 14,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [
+      "https://watercolormisfit.com/10-things-im-letting-go-of-this-year-to-boost-creativity-and-avoid-burnout/",
+      "https://watercolormisfit.com/my-favorite-limited-watercolor-palette-plus-affordable-student-grade-alternatives/",
+      "https://watercolormisfit.com/wet-on-wet-vs-wet-on-dry-the-watercolor-basics-every-beginner-should-know/"
+    ],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 26496
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 37305,
+    "homepage_ms": 559
+  }
+}

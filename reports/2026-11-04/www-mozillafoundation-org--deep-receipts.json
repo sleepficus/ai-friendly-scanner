@@ -1,0 +1,3108 @@
+{
+  "url": "https://www.mozillafoundation.org/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 2784,
+    "found": true,
+    "directives": 70,
+    "content_signals": {
+      "search": "yes",
+      "ai-train": "no",
+      "use": "reference"
+    }
+  },
+  "sitemap": {
+    "url": "https://www.mozillafoundation.org/sitemap.xml",
+    "status": 200,
+    "entries": 10,
+    "kind": "index"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 70711,
+      "ms": 1444,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 403,
+      "bytes": 25,
+      "ms": 267,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "disallowed",
+      "actual": "http 403"
+    },
+    "ClaudeBot": {
+      "ua_status": 403,
+      "bytes": 25,
+      "ms": 281,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "disallowed",
+      "actual": "http 403"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 68599,
+      "ms": 1465,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 691,
+    "script_tags": 15,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Welcome to Mozilla Foundation\n                \n            \n            \n                \n                - Mozilla Foundation",
+    "h1": [],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 47,
+    "links_unnamed": 0,
+    "buttons_total": 6,
+    "buttons_unnamed": 0,
+    "fields_total": 6,
+    "fields_unlabelled": 0,
+    "images_total": 18,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 28771
+    },
+    "jsonld_blocks": 0
+  },
+  "fetches": {
+    "homepage_bytes": 70711,
+    "homepage_ms": 1444
+  },
+  "crawl": {
+    "source": "sitemap index https://www.mozillafoundation.org/sitemap.xml (10 child sitemaps read)",
+    "urls_found": 3380,
+    "cap": 25,
+    "pages_audited": 25
+  },
+  "pages": [
+    {
+      "url": "https://www.mozillafoundation.org/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/",
+      "status": 200,
+      "forms": 4,
+      "fields": 10,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/tracks/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/tracks/developers-wilding/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/about/",
+      "status": 200,
+      "forms": 4,
+      "fields": 10,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "status": 200,
+      "forms": 4,
+      "fields": 10,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/faq/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "status": 200,
+      "forms": 4,
+      "fields": 10,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/nabiha-syed/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/angela-plohman/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/michael-whitney/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/kristen-spangler/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/lindsey-dodson/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/lauren-hendry-parsons/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/shing-suiter/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/amanda-lee-gaffar/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/steven-azeka/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/tekia-stokes/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/dandre-walker/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "status": 200,
+      "forms": 4,
+      "fields": 10,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/091625-mozilla-festival-schedule/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/nothing-personal-magazine-launch/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/imaginative-intelligences-hollywood/",
+      "status": 200,
+      "forms": 3,
+      "fields": 6,
+      "unlabelled": 0
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://www.mozillafoundation.org/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/",
+      "action": "https://www.mozillafoundation.org/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/",
+      "action": "https://www.mozillafoundation.org/ca/festival/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Subscriviu-vos \n               Subscriviu-vos",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/",
+      "action": "https://www.mozillafoundation.org/ca/festival/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/tracks/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/tracks/",
+      "action": "https://www.mozillafoundation.org/ca/festival/tracks/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/tracks/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/tracks/developers-wilding/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/tracks/developers-wilding/",
+      "action": "https://www.mozillafoundation.org/ca/festival/tracks/developers-wilding/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/tracks/developers-wilding/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/about/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/about/",
+      "action": "https://www.mozillafoundation.org/ca/festival/about/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Subscriviu-vos \n               Subscriviu-vos",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/about/",
+      "action": "https://www.mozillafoundation.org/ca/festival/about/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/about/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "action": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Subscriviu-vos \n               Subscriviu-vos",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "action": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/newsletter/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/faq/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/faq/",
+      "action": "https://www.mozillafoundation.org/ca/festival/faq/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/faq/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "action": "https://www.mozillafoundation.org/ca/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Cerca\" aria-label=\"Cerca\">",
+          "label": "Cerca",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Cerca"
+        }
+      ],
+      "submit": {
+        "name": "Cerca \n     Cerca",
+        "element": "<button type=\"submit\" aria-label=\"Cerca\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "action": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "action": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Correu electr\u00f2nic\" aria-label=\"Correu electr\u00f2nic\" required>",
+          "label": "Correu electr\u00f2nic",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Correu electr\u00f2nic"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Pa\u00eds\" required>",
+          "label": "Pa\u00eds",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Idioma\" required>",
+          "label": "Idioma",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 tal com s'explica en aquest  Av\u00eds de privacitat .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "S'est\u00e0 carregant...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/ca/festival/volunteer/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Idioma",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/",
+      "action": "https://www.mozillafoundation.org/en/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/nabiha-syed/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/nabiha-syed/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/nabiha-syed/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/nabiha-syed/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/angela-plohman/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/angela-plohman/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/angela-plohman/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/angela-plohman/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/michael-whitney/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/michael-whitney/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/michael-whitney/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/michael-whitney/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/kristen-spangler/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/kristen-spangler/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/kristen-spangler/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/kristen-spangler/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/lindsey-dodson/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/lindsey-dodson/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/lindsey-dodson/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/lindsey-dodson/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/lauren-hendry-parsons/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/lauren-hendry-parsons/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/lauren-hendry-parsons/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/lauren-hendry-parsons/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/shing-suiter/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/shing-suiter/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/shing-suiter/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/shing-suiter/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/amanda-lee-gaffar/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/amanda-lee-gaffar/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/amanda-lee-gaffar/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/amanda-lee-gaffar/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/steven-azeka/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/steven-azeka/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/steven-azeka/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/steven-azeka/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/tekia-stokes/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/tekia-stokes/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/tekia-stokes/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/tekia-stokes/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/dandre-walker/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/dandre-walker/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/dandre-walker/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/dandre-walker/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/091625-mozilla-festival-schedule/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/091625-mozilla-festival-schedule/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/091625-mozilla-festival-schedule/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/091625-mozilla-festival-schedule/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/nothing-personal-magazine-launch/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/nothing-personal-magazine-launch/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/nothing-personal-magazine-launch/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/nothing-personal-magazine-launch/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/imaginative-intelligences-hollywood/",
+      "action": "https://www.mozillafoundation.org/en/search/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"text\" name=\"query\" placeholder=\"Search\" aria-label=\"Search\">",
+          "label": "Search",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "query",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": "Search"
+        }
+      ],
+      "submit": {
+        "name": "Search \n     Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/imaginative-intelligences-hollywood/",
+      "action": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/imaginative-intelligences-hollywood/",
+      "method": "get",
+      "purpose": "signup / lead capture",
+      "purpose_evidence": "an email field among other fields",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" placeholder=\"Email\" aria-label=\"Email\" required>",
+          "label": "Email",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "Email"
+        },
+        {
+          "element": "<select name=\"country\" aria-label=\"Country\" required>",
+          "label": "Country",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"language\" aria-label=\"Language\" required>",
+          "label": "Language",
+          "label_kind": "aria-label",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\">",
+          "label": "I'm okay with Mozilla handling my info as explained in this  Privacy Notice .",
+          "label_kind": "wrapping label",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Loading...\n             \n             \n               Sign Up \n               Sign Up",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/imaginative-intelligences-hollywood/",
+      "action": "https://www.mozillafoundation.org/i18n/setlang/",
+      "method": "post",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"language\" id=\"language-switcher\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "language",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "url": "https://watercolormisfit.com/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 177,
+    "found": true,
+    "directives": 5,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://watercolormisfit.com/wp-sitemap.xml",
+    "status": 200,
+    "entries": 5,
+    "kind": "index"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 37305,
+      "ms": 464,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 37305,
+      "ms": 599,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 37305,
+      "ms": 405,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 37305,
+      "ms": 375,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 323,
+    "script_tags": 8,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Watercolor Misfit\u00ae | Modern Watercolor Tutorials",
+    "h1": [
+      "Watercolor   that breaks   the rules."
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 33,
+    "links_unnamed": 3,
+    "buttons_total": 3,
+    "buttons_unnamed": 0,
+    "fields_total": 1,
+    "fields_unlabelled": 0,
+    "images_total": 14,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [
+      "https://watercolormisfit.com/10-things-im-letting-go-of-this-year-to-boost-creativity-and-avoid-burnout/",
+      "https://watercolormisfit.com/my-favorite-limited-watercolor-palette-plus-affordable-student-grade-alternatives/",
+      "https://watercolormisfit.com/wet-on-wet-vs-wet-on-dry-the-watercolor-basics-every-beginner-should-know/"
+    ],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 26500
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 37305,
+    "homepage_ms": 464
+  },
+  "crawl": {
+    "source": "sitemap index https://watercolormisfit.com/wp-sitemap.xml (5 child sitemaps read)",
+    "urls_found": 217,
+    "cap": 25,
+    "pages_audited": 25
+  },
+  "pages": [
+    {
+      "url": "https://watercolormisfit.com/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/watercolor-101-pan-paints-the-advantages-and-disadvantages/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/watercolor-paints-101-the-advantages-and-disadvantages-in-chart-form/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/student-and-artist-grade-paint/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/watercolor-paints-101-concentrates-the-advantages-disadvantages/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/how-to-shade/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/watercolor-basic-supplies-my-top-5-brushes/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/how-to-draw-ink-a-hyacinth-flower/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/the-easiest-way-to-paint-a-hyacinth-flower/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/how-to-paint-a-moon-with-watercolor/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/splatter-paint-effect/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/the-difference-between-transparent-and-opaque-watercolors/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/best-watercolor-tool-youll-ever-own/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/organizeartstudio/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/top-watercolor-tips-for-beginners/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/5-watercolor-exercises-for-creative-block/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/how-to-paint-a-whimsical-autumn-leaf/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/how-to-mix-watercolors-purple/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/tracing-onto-watercolor-paper-tip02/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/watercolorpalettes/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/paint-perfect-flat-wash-tip07/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/paper_difference/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/paint-watercolor-whale-7-easy-steps/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/fear-of-starting/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://watercolormisfit.com/watercolor-beginner-tutorial/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://watercolormisfit.com/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/watercolor-101-pan-paints-the-advantages-and-disadvantages/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/watercolor-paints-101-the-advantages-and-disadvantages-in-chart-form/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/student-and-artist-grade-paint/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/watercolor-paints-101-concentrates-the-advantages-disadvantages/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/how-to-shade/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/watercolor-basic-supplies-my-top-5-brushes/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/how-to-draw-ink-a-hyacinth-flower/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/the-easiest-way-to-paint-a-hyacinth-flower/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/how-to-paint-a-moon-with-watercolor/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/splatter-paint-effect/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/the-difference-between-transparent-and-opaque-watercolors/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/best-watercolor-tool-youll-ever-own/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/organizeartstudio/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/top-watercolor-tips-for-beginners/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/5-watercolor-exercises-for-creative-block/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/how-to-paint-a-whimsical-autumn-leaf/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/how-to-mix-watercolors-purple/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/tracing-onto-watercolor-paper-tip02/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/watercolorpalettes/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/paint-perfect-flat-wash-tip07/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/paper_difference/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/paint-watercolor-whale-7-easy-steps/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/fear-of-starting/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    },
+    {
+      "page": "https://watercolormisfit.com/watercolor-beginner-tutorial/",
+      "action": "https://watercolormisfit.com/",
+      "method": "get",
+      "purpose": "search",
+      "purpose_evidence": "the form is marked role=search or holds a search field",
+      "fields": [
+        {
+          "element": "<input type=\"search\" name=\"s\" id=\"wm-site-search\" placeholder=\"Search articles\u2026\" autocomplete=\"off\">",
+          "label": "Search articles",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "s",
+          "type": "search",
+          "required": false,
+          "autocomplete": "off",
+          "placeholder": "Search articles\u2026"
+        }
+      ],
+      "submit": {
+        "name": "Search",
+        "element": "<button type=\"submit\" aria-label=\"Search\">"
+      }
+    }
+  ]
+}

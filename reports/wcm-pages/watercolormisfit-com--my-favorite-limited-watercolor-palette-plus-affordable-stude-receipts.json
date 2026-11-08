@@ -1,0 +1,90 @@
+{
+  "url": "https://watercolormisfit.com/my-favorite-limited-watercolor-palette-plus-affordable-student-grade-alternatives/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 177,
+    "found": true,
+    "directives": 5,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://watercolormisfit.com/wp-sitemap.xml",
+    "status": 200,
+    "entries": 5,
+    "kind": "index"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 47537,
+      "ms": 393,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 47537,
+      "ms": 600,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 47537,
+      "ms": 368,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 47537,
+      "ms": 392,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 1010,
+    "script_tags": 8,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "My Favorite Limited Watercolor Palette (Plus Affordable Student-Grade Alternatives!)",
+    "h1": [
+      "My Favorite Limited Watercolor Palette (Plus Affordable Student-Grade Alternatives!)"
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 36,
+    "links_unnamed": 4,
+    "buttons_total": 3,
+    "buttons_unnamed": 0,
+    "fields_total": 1,
+    "fields_unlabelled": 0,
+    "images_total": 8,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [
+      "https://watercolormisfit.com/wp-content/uploads/2025/12/split-primaries-color-wheel.jpg",
+      "https://watercolormisfit.com/wp-content/uploads/2025/12/paint-colors-no-names-landscape.jpg",
+      "https://watercolormisfit.com/wp-content/uploads/2025/12/gansai-tambi-fav-paint-colors.jpg"
+    ],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 26500
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 47537,
+    "homepage_ms": 393
+  }
+}

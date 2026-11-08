@@ -1,0 +1,2013 @@
+{
+  "url": "https://www.mozilla.org/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 66,
+    "found": true,
+    "directives": 3,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://www.mozilla.org/sitemap.xml",
+    "status": 404,
+    "entries": null,
+    "kind": null
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 47808,
+      "ms": 374,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 47808,
+      "ms": 471,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 47808,
+      "ms": 484,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 47808,
+      "ms": 478,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 314,
+    "script_tags": 8,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Internet for people, not profit \u2014 Mozilla Global",
+    "h1": [
+      "Choose your language or locale to browse Mozilla.org"
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 135,
+    "links_unnamed": 0,
+    "buttons_total": 5,
+    "buttons_unnamed": 0,
+    "fields_total": 0,
+    "fields_unlabelled": 0,
+    "images_total": 11,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 8957
+    },
+    "jsonld_blocks": 0
+  },
+  "fetches": {
+    "homepage_bytes": 47808,
+    "homepage_ms": 374
+  },
+  "crawl": {
+    "source": "homepage links (no usable sitemap)",
+    "urls_found": 98,
+    "cap": 25,
+    "pages_audited": 25
+  },
+  "pages": [
+    {
+      "url": "https://www.mozilla.org/",
+      "status": 200,
+      "forms": 0,
+      "fields": 0,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/privacy/websites/cookie-settings/",
+      "status": 200,
+      "forms": 2,
+      "fields": 5,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/products/",
+      "status": 200,
+      "forms": 2,
+      "fields": 2,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/products/vpn/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/products/monitor/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/about/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/about/manifesto/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/contribute/",
+      "status": 200,
+      "forms": 2,
+      "fields": 5,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/advertising/",
+      "status": 200,
+      "forms": 1,
+      "fields": 1,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/ach/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/ar/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/ast/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/be/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/bg/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/br/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/bs/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/ca/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/cak/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/cs/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/cy/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/da/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/de/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/dsb/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    },
+    {
+      "url": "https://www.mozilla.org/el/",
+      "status": 200,
+      "forms": 2,
+      "fields": 6,
+      "unlabelled": 0
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://www.mozilla.org/en-US/privacy/websites/cookie-settings/",
+      "action": "https://www.mozilla.org/en-US/privacy/websites/cookie-settings/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<input type=\"radio\" name=\"cookie-radio-preference\" id=\"cookie-radio-preference-yes\">",
+          "label": "I Agree",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "cookie-radio-preference",
+          "type": "radio",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"radio\" name=\"cookie-radio-preference\" id=\"cookie-radio-preference-no\">",
+          "label": "I Do Not Agree",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "cookie-radio-preference",
+          "type": "radio",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"radio\" name=\"cookie-radio-analytics\" id=\"cookie-radio-analytics-yes\">",
+          "label": "I Agree",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "cookie-radio-analytics",
+          "type": "radio",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"radio\" name=\"cookie-radio-analytics\" id=\"cookie-radio-analytics-no\">",
+          "label": "I Do Not Agree",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "cookie-radio-analytics",
+          "type": "radio",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Save Changes",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/privacy/websites/cookie-settings/",
+      "action": "https://www.mozilla.org/en-US/privacy/websites/cookie-settings/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "Your email address:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Select country or region:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Select language:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "I\u2019m okay with Mozilla handling my info as explained in  this Privacy Notice",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Sign Up Now\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/",
+      "action": "https://www.mozilla.org/en-US/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/products/",
+      "action": "https://accounts.firefox.com/",
+      "method": "get",
+      "purpose": "email signup (newsletter or lead capture)",
+      "purpose_evidence": "an email field and little else; the destination says no more",
+      "fields": [
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"fxa-email-field\" placeholder=\"user@example.com\" autocomplete=\"email\" required>",
+          "label": "Email address",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": "email",
+          "placeholder": "user@example.com"
+        }
+      ],
+      "submit": {
+        "name": "Continue",
+        "element": "<button type=\"submit\" id=\"fxa-email-form-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/products/",
+      "action": "https://www.mozilla.org/en-US/products/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/products/vpn/",
+      "action": "https://www.mozilla.org/en-US/products/vpn/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/products/monitor/",
+      "action": "https://www.mozilla.org/en-US/products/monitor/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/about/",
+      "action": "https://www.mozilla.org/en-US/about/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/about/manifesto/",
+      "action": "https://www.mozilla.org/en-US/about/manifesto/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/contribute/",
+      "action": "https://basket.mozilla.org/news/subscribe/",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "about-mozilla",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "Your email address:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Select country or region:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "I\u2019m okay with Mozilla handling my info as explained in  this Privacy Notice",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Sign Up Now\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/contribute/",
+      "action": "https://www.mozilla.org/en-US/contribute/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/en-US/advertising/",
+      "action": "https://www.mozilla.org/en-US/advertising/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/ach/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "Your email address:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Select country or region:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Select language:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "I\u2019m okay with Mozilla handling my info as explained in  this Privacy Notice",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Sign Up Now\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/ach/",
+      "action": "https://www.mozilla.org/ach/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/ar/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "\u062d\u062f\u062f \u0627\u0644\u0628\u0644\u062f \u0623\u0648 \u0627\u0644\u0645\u0646\u0637\u0642\u0629:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "\u0627\u062e\u062a\u0631 \u0644\u063a\u0629:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "\u0644\u064a\u0633 \u0644\u062f\u064a\u0651\u064e \u0645\u0634\u0643\u0644\u0629 \u0641\u064a \u0645\u0639\u0627\u0644\u062c\u0629 \u0634\u0631\u0643\u0629 Mozilla \u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a \u0643\u0645\u0627 \u0647\u0648 \u0645\u0648\u0636\u062d \u0641\u064a  \u0625\u0634\u0639\u0627\u0631 \u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629 \u0647\u0630\u0627",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "\u0633\u062c\u0651\u0644 \u0627\u0644\u0622\u0646\n          \n           \n           \n             \u062c\u0627\u0631\u064a \u0627\u0644\u0625\u0631\u0633\u0627\u0644",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/ar/",
+      "action": "https://www.mozilla.org/ar/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "\u0627\u0644\u0644\u063a\u0629",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/ast/",
+      "action": "https://basket.mozilla.org/news/subscribe/",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Firefox",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"correu-de-to@exemplu.com\" required>",
+          "label": "Your email address:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "correu-de-to@exemplu.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Select country or region:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Lling\u00fces disponibles:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "I\u2019m okay with Mozilla handling my info as explained in  this Privacy Notice",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Rexistrase agora\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/ast/",
+      "action": "https://www.mozilla.org/ast/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Llingua",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Dir",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/be/",
+      "action": "https://basket.mozilla.org/news/subscribe/",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Firefox",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "\u0412\u0430\u0448 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b \u0430\u0434\u0440\u0430\u0441:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "\u0412\u044b\u0431\u0435\u0440\u044b\u0446\u0435 \u043a\u0440\u0430\u0456\u043d\u0443 \u0430\u0431\u043e \u0440\u044d\u0433\u0456\u0451\u043d:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "\u0410\u0431\u0440\u0430\u0446\u044c \u043c\u043e\u0432\u0443:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "\u042f \u0437\u0433\u043e\u0434\u043d\u044b \u0437 \u0442\u044b\u043c, \u044f\u043a Mozilla \u0437\u0432\u044f\u0440\u0442\u0430\u0435\u0446\u0446\u0430 \u0437 \u043c\u0430\u0456\u043c\u0456 \u0434\u0430\u0434\u0437\u0435\u043d\u044b\u043c\u0456 \u0437\u0433\u043e\u0434\u043d\u0430 \u0437  \u0433\u044d\u0442\u044b\u043c \u043f\u0430\u0432\u0435\u0434\u0430\u043c\u043b\u0435\u043d\u043d\u0435\u043c \u0430\u0431 \u043f\u0440\u044b\u0432\u0430\u0442\u043d\u0430\u0441\u0446i",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "\u0417\u0430\u0440\u044d\u0433\u0456\u0441\u0442\u0440\u0430\u0432\u0430\u0446\u0446\u0430 \u0437\u0430\u0440\u0430\u0437\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/be/",
+      "action": "https://www.mozilla.org/be/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "\u041c\u043e\u0432\u0430",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/bg/",
+      "action": "https://basket.mozilla.org/news/subscribe/",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Firefox",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "\u0410\u0434\u0440\u0435\u0441 \u043d\u0430 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430 \u043f\u043e\u0449\u0430:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "\u0418\u0437\u0431\u0435\u0440\u0435\u0442\u0435 \u0434\u044a\u0440\u0436\u0430\u0432\u0430:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "\u0418\u0437\u0431\u0435\u0440\u0435\u0442\u0435 \u0435\u0437\u0438\u043a:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "\u0421\u044a\u0433\u043b\u0430\u0441\u0435\u043d \u0441\u044a\u043c Mozilla \u0434\u0430 \u0440\u0430\u0437\u043f\u043e\u043b\u0430\u0433\u0430 \u0441 \u0434\u0430\u043d\u043d\u0438\u0442\u0435 \u043c\u0438, \u043a\u0430\u043a\u0442\u043e \u0435 \u043e\u0431\u044f\u0441\u043d\u0435\u043d\u043e \u0432  \u0442\u0430\u0437\u0438 \u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u0437\u0430 \u043b\u0438\u0447\u043d\u0438\u0442\u0435 \u0434\u0430\u043d\u043d\u0438",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "\u0410\u0431\u043e\u043d\u0438\u0440\u0430\u043d\u0435\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/bg/",
+      "action": "https://www.mozilla.org/bg/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "\u0415\u0437\u0438\u043a",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "\u041d\u0430\u043f\u0440\u0435\u0434",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/br/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "Your email address:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Select country or region:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Select language:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "I\u2019m okay with Mozilla handling my info as explained in  this Privacy Notice",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Sign Up Now\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/br/",
+      "action": "https://www.mozilla.org/br/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Language",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/bs/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"ime@example.com\" required>",
+          "label": "Va\u0161a email adresa:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "ime@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Odaberite dr\u017eavu ili regiju:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Izaberite jezik:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Sla\u017eem se da se Mozilla koristi mojim informacijama kao \u0161to je obja\u0161njeno u  ovoj obavjesti o privatnosti",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Registrujte se sada\n          \n           \n           \n             \u0160aljem",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/bs/",
+      "action": "https://www.mozilla.org/bs/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Jezik",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/ca/",
+      "action": "https://basket.mozilla.org/news/subscribe/",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Firefox",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"ADRE\u00c7A ELECTR\u00d2NICA\" required>",
+          "label": "Your email address:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "ADRE\u00c7A ELECTR\u00d2NICA"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Seleccioneu l'estat:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Lleng\u00fces disponibles:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Accepto que Mozilla gestioni la meva informaci\u00f3 en els termes descrits en l' av\u00eds de privadesa",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Subscriviu-vos-hi ara\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/ca/",
+      "action": "https://www.mozilla.org/ca/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Llengua",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "V\u00e9s-hi",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/cak/",
+      "action": "https://basket.mozilla.org/news/subscribe/",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Firefox",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "Rochochib'al ataqoya'l:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Ticha' Amaq' o k'ojlib'\u00e4l:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Wachel taq ch'ab'\u00e4l:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "\u00dctz rub'anon chi nuw\u00e4ch rusamajixik ri wetamab'al pa Mozilla achi'el niq'alajis\u00e4x pa  re ichinan runa'oj",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Tatz'ib'aj awi' wakami\n          \n           \n           \n             Sending",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/cak/",
+      "action": "https://www.mozilla.org/cak/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Ch'ab'\u00e4l",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Jo'",
+        "element": "<button type=\"submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/cs/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"vase-adresa@example.com\" required>",
+          "label": "Va\u0161e e-mailov\u00e1 adresa:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "vase-adresa@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Vyberte zemi nebo oblast:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Vyberte jazyk:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Souhlas\u00edm s t\u00edm, aby Mozilla zpracov\u00e1vala m\u00e9 informace tak, jak je pops\u00e1no v  z\u00e1sad\u00e1ch ochrany osobn\u00edch \u00fadaj\u016f",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "P\u0159ihl\u00e1sit se\n          \n           \n           \n             Odes\u00edl\u00e1 se",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/cs/",
+      "action": "https://www.mozilla.org/cs/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Jazyk",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/cy/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"eichenw@example.com\" required>",
+          "label": "Eich cyfeiriad e-bost:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "eichenw@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Dewiswch wlad neu ardal:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Dewiswch Iaith:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Rwy'n fodlon i Mozilla drin fy manylion fel mae'n cael ei esbonio yn y  Datganiad Preifatrwydd hwn",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Cofrestrwch nawr\n          \n           \n           \n             Anfon",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/cy/",
+      "action": "https://www.mozilla.org/cy/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Iaith",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/da/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"navn@eksempel.dk\" required>",
+          "label": "Din mailadresse:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "navn@eksempel.dk"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "V\u00e6lg land eller region:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "V\u00e6lg sprog:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Det er helt fint, at Mozilla h\u00e5ndterer mine oplysninger som beskrevet i  denne privatlivserkl\u00e6ring",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Tilmeld mig\n          \n           \n           \n             Sender",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/da/",
+      "action": "https://www.mozilla.org/da/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Sprog",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/de/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"deinname@example.com\" required>",
+          "label": "Deine E-Mail-Adresse:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "deinname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Land oder Region ausw\u00e4hlen:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "Sprache w\u00e4hlen:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Ich bin einverstanden, dass Mozilla meine Daten wie in  diesem Datenschutzhinweis  angegeben verwendet",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Jetzt abonnieren\n          \n           \n           \n             Sendevorgang",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/de/",
+      "action": "https://www.mozilla.org/de/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "Sprache",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/dsb/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"wasome@example.com\" required>",
+          "label": "Wa\u0161a e-mailowa adresa:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "wasome@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "Kraj abo region wubra\u015b:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "R\u011bc wubra\u015b:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "Som z tym wobjadny, kak Mozilla wobchada p\u00f3  to\u015b tych p\u0161awid\u0142ach priwatnos\u0107i  z m\u00f3jimi informacijami",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "Registr\u011bruj\u015bo se n\u011bnto\n          \n           \n           \n             S\u0142anje",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/dsb/",
+      "action": "https://www.mozilla.org/dsb/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "R\u011bc",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    },
+    {
+      "page": "https://www.mozilla.org/el/",
+      "action": "https://abdri3ttkb.execute-api.us-east-2.amazonaws.com/api/newsletter/mozillaorg",
+      "method": "post",
+      "purpose": "newsletter signup",
+      "purpose_evidence": "an email field, and the form's destination identifies a mailing list or subscription",
+      "fields": [
+        {
+          "element": "<input type=\"checkbox\" name=\"newsletters\" id=\"id_newsletters_0\">",
+          "label": "Mozilla Foundation",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "newsletters",
+          "type": "checkbox",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"email\" name=\"email\" id=\"id_email\" placeholder=\"yourname@example.com\" required>",
+          "label": "\u0397 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 email \u03c3\u03b1\u03c2:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": "yourname@example.com"
+        },
+        {
+          "element": "<select name=\"country\" id=\"id_country\" required>",
+          "label": "\u0395\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03c7\u03ce\u03c1\u03b1 \u03ae \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "country",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<select name=\"lang\" id=\"id_lang\" required>",
+          "label": "\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2:",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        },
+        {
+          "element": "<input type=\"checkbox\" name=\"privacy\" id=\"privacy\" required>",
+          "label": "\u0394\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03bc\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03b7 Mozilla, \u03cc\u03c0\u03c9\u03c2 \u03b5\u03be\u03b7\u03b3\u03b5\u03af \u03b7  \u0394\u03ae\u03bb\u03c9\u03c3\u03b7 \u03b1\u03c0\u03bf\u03c1\u03c1\u03ae\u03c4\u03bf\u03c5 .",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "privacy",
+          "type": "checkbox",
+          "required": true,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": {
+        "name": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c4\u03ce\u03c1\u03b1\n          \n           \n           \n             \u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae",
+        "element": "<button type=\"submit\" id=\"newsletter-submit\">"
+      }
+    },
+    {
+      "page": "https://www.mozilla.org/el/",
+      "action": "https://www.mozilla.org/el/",
+      "method": "get",
+      "purpose": "general form",
+      "purpose_evidence": "no strong signals in the destination, identity or fields",
+      "fields": [
+        {
+          "element": "<select name=\"lang\" id=\"page-language-select\">",
+          "label": "\u0393\u03bb\u03ce\u03c3\u03c3\u03b1",
+          "label_kind": "label element",
+          "labelled": true,
+          "name": "lang",
+          "type": "text",
+          "required": false,
+          "autocomplete": null,
+          "placeholder": null
+        }
+      ],
+      "submit": null
+    }
+  ]
+}

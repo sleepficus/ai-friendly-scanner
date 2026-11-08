@@ -1,0 +1,86 @@
+{
+  "url": "https://www.misfitcircuit.com/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 74,
+    "found": true,
+    "directives": 3,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://www.misfitcircuit.com/sitemap.xml",
+    "status": 200,
+    "entries": 36,
+    "kind": "urlset"
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 17314,
+      "ms": 692,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 17314,
+      "ms": 681,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 17314,
+      "ms": 653,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 17314,
+      "ms": 667,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 979,
+    "script_tags": 3,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Stephen Luc \u00b7 AI automation and agent systems \u2014 Misfit Circuit",
+    "h1": [
+      "I lead crews of AI agents that do real business work, and build the tools that check it."
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 42,
+    "links_unnamed": 0,
+    "buttons_total": 1,
+    "buttons_unnamed": 0,
+    "fields_total": 0,
+    "fields_unlabelled": 0,
+    "images_total": 6,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 200,
+      "bytes": 1032
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 17314,
+    "homepage_ms": 692
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.misfitcircuit.com/",
+  "scanned_from": "scanner network (one vantage point)",
+  "robots": {
+    "status": 200,
+    "bytes": 1248,
+    "found": true,
+    "directives": 0,
+    "content_signals": {}
+  },
+  "sitemap": {
+    "url": "https://www.misfitcircuit.com/sitemap.xml",
+    "status": 404,
+    "entries": null,
+    "kind": null
+  },
+  "door": {
+    "browser": {
+      "status": 200,
+      "bytes": 36337,
+      "ms": 577,
+      "error": null
+    },
+    "GPTBot": {
+      "ua_status": 200,
+      "bytes": 36337,
+      "ms": 319,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "ClaudeBot": {
+      "ua_status": 200,
+      "bytes": 36337,
+      "ms": 406,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    },
+    "Googlebot": {
+      "ua_status": 200,
+      "bytes": 36337,
+      "ms": 375,
+      "error": null,
+      "challenge": false,
+      "robots_declares": "allowed",
+      "actual": "served"
+    }
+  },
+  "content": {
+    "visible_words_raw": 2134,
+    "script_tags": 3,
+    "app_shell_id": null,
+    "noscript_words": 0,
+    "title": "Stephen Luc \u00b7 I build the systems behind marketing \u2014 Misfit Circuit",
+    "h1": [
+      "I help teams explain their products and  build the systems behind their marketing."
+    ],
+    "meta_description": true
+  },
+  "labels": {
+    "links_total": 81,
+    "links_unnamed": 0,
+    "buttons_total": 1,
+    "buttons_unnamed": 0,
+    "fields_total": 0,
+    "fields_unlabelled": 0,
+    "images_total": 8,
+    "images_missing_alt": 0,
+    "example_unnamed_links": [],
+    "example_unlabelled_fields": []
+  },
+  "info_only": {
+    "llms_txt": {
+      "status": 404,
+      "bytes": 1301
+    },
+    "jsonld_blocks": 1
+  },
+  "fetches": {
+    "homepage_bytes": 36337,
+    "homepage_ms": 577
+  }
+}
